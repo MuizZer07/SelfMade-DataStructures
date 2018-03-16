@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1478377976 source:e:\documents\5th semester 163\cse225\codes\mid\stacktype\itemtype.cpp
+	"ItemType.h"
+
+1478377976 e:\documents\5th semester 163\cse225\codes\mid\stacktype\itemtype.h
+	<fstream>
+	<iostream>
+
+1478378494 source:e:\documents\5th semester 163\cse225\codes\mid\stacktype\main.cpp
+	<iostream>
+	"Itemtype.h"
+	"StackType.h"
+	<fstream>
+
+1478378375 e:\documents\5th semester 163\cse225\codes\mid\stacktype\stacktype.h
+	"Itemtype.h"
+	<iostream>
+
+1478378623 source:e:\documents\5th semester 163\cse225\codes\mid\stacktype\stacktype.cpp
+	"StackType.h"
+

@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1481319596 source:e:\documents\5th semester 163\cse225\codes\data structures\priorityqueue\heaptype.cpp
+	"HeapType.h"
+
+1481320234 e:\documents\5th semester 163\cse225\codes\data structures\priorityqueue\heaptype.h
+	"HeapType.cpp"
+
+1481319596 e:\documents\5th semester 163\cse225\codes\data structures\priorityqueue\heaptype.cpp
+	"HeapType.h"
+
+1446667744 source:e:\documents\5th semester 163\cse225\codes\data structures\priorityqueue\main.cpp
+	<iostream>
+
+1481320453 source:e:\documents\5th semester 163\cse225\codes\data structures\priorityqueue\pqtype.cpp
+	"PQType.h"
+
+1481320461 e:\documents\5th semester 163\cse225\codes\data structures\priorityqueue\pqtype.h
+	"HeapType.h"
+	"PQType.cpp"
+
+1481320453 e:\documents\5th semester 163\cse225\codes\data structures\priorityqueue\pqtype.cpp
+	"PQType.h"
+

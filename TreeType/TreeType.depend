@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1479758041 source:e:\documents\5th semester 163\cse225\codes\data structures\treetype\main.cpp
+	<iostream>
+	"TreeType.h"
+	<fstream>
+
+1479756435 e:\documents\5th semester 163\cse225\codes\data structures\treetype\treetype.h
+	<iostream>
+	<fstream>
+	"TreeType.cpp"
+
+1479758104 e:\documents\5th semester 163\cse225\codes\data structures\treetype\treetype.cpp
+	"TreeType.h"
+
+1479758104 source:e:\documents\5th semester 163\cse225\codes\data structures\treetype\treetype.cpp
+	"TreeType.h"
+

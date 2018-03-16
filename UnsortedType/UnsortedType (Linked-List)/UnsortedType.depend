@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1478374954 source:e:\documents\5th semester 163\cse225\codes\mid\unsortedtype\itemtype.cpp
+	"ItemType.h"
+
+1478374954 e:\documents\5th semester 163\cse225\codes\mid\unsortedtype\itemtype.h
+	<fstream>
+	<iostream>
+
+1478374954 source:e:\documents\5th semester 163\cse225\codes\mid\unsortedtype\unsortedtype.cpp
+	"UnsortedType.h"
+
+1478374954 e:\documents\5th semester 163\cse225\codes\mid\unsortedtype\unsortedtype.h
+	"ItemType.h"
+	<iostream>
+
+1478374954 source:e:\documents\5th semester 163\cse225\codes\data structures\unsortedtype\unsortedtype (linked-list)\itemtype.cpp
+	"ItemType.h"
+
+1478374954 e:\documents\5th semester 163\cse225\codes\data structures\unsortedtype\unsortedtype (linked-list)\itemtype.h
+	<fstream>
+	<iostream>
+
+1478374954 source:e:\documents\5th semester 163\cse225\codes\data structures\unsortedtype\unsortedtype (linked-list)\unsortedtype.cpp
+	"UnsortedType.h"
+
+1478374954 e:\documents\5th semester 163\cse225\codes\data structures\unsortedtype\unsortedtype (linked-list)\unsortedtype.h
+	"ItemType.h"
+	<iostream>
+
+1480960880 source:e:\documents\5th semester 163\cse225\codes\data structures\unsortedtype\unsortedtype (linked-list)\main.cpp
+	<iostream>
+	"ItemType.h"
+	"UnsortedType.h"
+	<fstream>
+

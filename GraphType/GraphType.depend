@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1481230514 source:e:\documents\5th semester 163\cse225\codes\data structures\graphtype\graphtype.cpp
+	"GraphType.h"
+
+1481230659 e:\documents\5th semester 163\cse225\codes\data structures\graphtype\graphtype.h
+	<queue>
+	<iostream>
+	"GraphType.cpp"
+
+1481230514 e:\documents\5th semester 163\cse225\codes\data structures\graphtype\graphtype.cpp
+	"GraphType.h"
+

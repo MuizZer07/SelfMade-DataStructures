@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1478375238 source:e:\documents\5th semester 163\cse225\codes\mid\sortedtype\itemtype.cpp
+	"ItemType.h"
+
+1478375238 e:\documents\5th semester 163\cse225\codes\mid\sortedtype\itemtype.h
+	<fstream>
+	<iostream>
+
+1446667744 source:e:\documents\5th semester 163\cse225\codes\mid\sortedtype\main.cpp
+	<iostream>
+
+1478375238 source:e:\documents\5th semester 163\cse225\codes\mid\sortedtype\sortedtype.cpp
+	"SortedType.h"
+
+1478375259 e:\documents\5th semester 163\cse225\codes\mid\sortedtype\sortedtype.h
+	"ItemType.h"
+	<iostream>
+

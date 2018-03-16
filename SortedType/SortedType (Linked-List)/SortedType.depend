@@ -1,0 +1,41 @@
+# depslib dependency file v1.0
+1478375465 source:e:\documents\5th semester 163\cse225\codes\mid\sortedtype\itemtype.cpp
+	"ItemType.h"
+
+1478375465 e:\documents\5th semester 163\cse225\codes\mid\sortedtype\itemtype.h
+	<fstream>
+	<iostream>
+
+1478375914 source:e:\documents\5th semester 163\cse225\codes\mid\sortedtype\main.cpp
+	<iostream>
+	"ItemType.h"
+	"SortedType.h"
+	<fstream>
+
+1478376204 e:\documents\5th semester 163\cse225\codes\mid\sortedtype\sortedtype.h
+	"ItemType.h"
+	<iostream>
+
+1478377451 source:e:\documents\5th semester 163\cse225\codes\mid\sortedtype\sortedtype.cpp
+	"SortedType.h"
+
+1478375465 source:e:\documents\5th semester 163\cse225\codes\data structures\sortedtype\sortedtype (linked-list)\itemtype.cpp
+	"ItemType.h"
+
+1478375465 e:\documents\5th semester 163\cse225\codes\data structures\sortedtype\sortedtype (linked-list)\itemtype.h
+	<fstream>
+	<iostream>
+
+1478377475 source:e:\documents\5th semester 163\cse225\codes\data structures\sortedtype\sortedtype (linked-list)\main.cpp
+	<iostream>
+	"ItemType.h"
+	"SortedType.h"
+	<fstream>
+
+1478376204 e:\documents\5th semester 163\cse225\codes\data structures\sortedtype\sortedtype (linked-list)\sortedtype.h
+	"ItemType.h"
+	<iostream>
+
+1478377451 source:e:\documents\5th semester 163\cse225\codes\data structures\sortedtype\sortedtype (linked-list)\sortedtype.cpp
+	"SortedType.h"
+

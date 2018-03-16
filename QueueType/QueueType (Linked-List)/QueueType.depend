@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1478381365 source:e:\documents\5th semester 163\cse225\codes\mid\queuetype\itemtype.cpp
+	"ItemType.h"
+
+1478381365 e:\documents\5th semester 163\cse225\codes\mid\queuetype\itemtype.h
+	<fstream>
+	<iostream>
+
+1478381365 source:e:\documents\5th semester 163\cse225\codes\mid\queuetype\main.cpp
+	<iostream>
+	"ItemType.h"
+	"QueueType.h"
+
+1478382043 e:\documents\5th semester 163\cse225\codes\mid\queuetype\queuetype.h
+	"ItemType.h"
+	<iostream>
+
+1478382043 source:e:\documents\5th semester 163\cse225\codes\mid\queuetype\queuetype.cpp
+	"QueueType.h"
+
